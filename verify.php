@@ -18,3 +18,4 @@ if (isset($_GET['hash'])) {
 		echo "Telegram data integrity check success!";
 	}
 }
+?>
